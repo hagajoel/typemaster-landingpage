@@ -2,7 +2,7 @@
 
 Simple integration using html and sass.
 
-Live preview [here.]()
+Live preview [here.](https://typemaster-landingpage.netlify.app)
 
 ## Technologies
 
